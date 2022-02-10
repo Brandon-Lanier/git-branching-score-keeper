@@ -24,3 +24,8 @@ header {
 .team2 {
   background-color: purple;
 }
+
+footer {
+  background-color: blue;
+  text-align: center;
+}
